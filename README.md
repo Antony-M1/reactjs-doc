@@ -3,4 +3,4 @@ React is a free and `open-source` front-end `JavaScript library` for building us
 
 ![image](https://github.com/Antony-M1/reactjs-doc/assets/96291963/d87413d2-ed40-4522-b3e9-111dac9884b9)
 
-* [**Commands**](/commands)
+* [**Commands**](https://github.com/Antony-M1/reactjs-doc/blob/main/commands.md)
